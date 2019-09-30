@@ -1,6 +1,6 @@
 # hello_dart
 
-A new Flutter project.
+I'm learning both [Scottish Gaelic](https://en.wikipedia.org/wiki/Scottish_Gaelic) and Dart/Flutter, so I build a wee application for Learn Scottish Gaelic using the [main website](https://www.learngaelic.net/) as inspiration.
 
 ## Getting Started
 
